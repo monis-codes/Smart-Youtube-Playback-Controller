@@ -1,0 +1,20 @@
+{
+  "name": "youtube-speed-controller",
+  "version": "1.0.0",
+  "description": "Chrome extension for YouTube playback speed control",
+  "scripts": {
+    "build": "node build_script.js",
+    "package": "npm run build && cd build && zip -r ../dist/extension.zip .",
+    "dev": "echo 'Load ./src in Chrome Developer Mode'",
+    "lint": "eslint src/**/*.js"
+  },
+  "devDependencies": {
+    "archiver": "^5.3.1",
+    "eslint": "^8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/youtube-speed-controller.git"
+  },
+  "license": "MIT"
+}
