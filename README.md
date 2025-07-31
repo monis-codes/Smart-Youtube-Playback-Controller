@@ -11,13 +11,8 @@ Smart YouTube playback speed optimizer. This Chrome extension automatically dete
 
 ## Installation
 
-### From Chrome Web Store
-1. Visit the [Chrome Web Store page](link-to-your-extension)
-2. Click "Add to Chrome"
-3. Confirm installation
-
 ### Manual Installation (Developer Mode)
-1. Download the latest release from [Releases](https://github.com/yourusername/repo/releases)
+1. Download the latest release from [Releases](https://github.com/monis-codes/Smart-Youtube-Playback-Controller)
 2. Extract the ZIP file
 3. Open Chrome → Extensions → Developer mode ON
 4. Click "Load unpacked" → Select extracted folder
@@ -36,8 +31,7 @@ Smart YouTube playback speed optimizer. This Chrome extension automatically dete
 - **storage**: Save your preferences locally
 
 ## Support
-- Report issues: [GitHub Issues](https://github.com/yourusername/repo/issues)
-- Feature requests: [Discussions](https://github.com/yourusername/repo/discussions)
+- Report issues: [GitHub Issues](https://github.com/monis-codes/Smart-Youtube-Playback-Controller/issues)
 
 ## License
 MIT License - see LICENSE file for details
